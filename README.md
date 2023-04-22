@@ -1,5 +1,5 @@
 <!-- ### <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="auto"> -->
-### Hi there, I'm Potcharapol Wasino come from Thailand <!-- <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> -->
+### Hi there, I'm Potcharapol Wasino from Thailand <!-- <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> -->
 
 <!-- ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> --> About Me:
  - 🔭 I’m working on [Vansales Application Co., Ltd.](https://vansalesapp.com/)
