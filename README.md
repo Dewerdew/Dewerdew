@@ -94,7 +94,7 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 ### 💬 &nbsp;Connect Me
 <p>
 <a href ="https://www.facebook.com/dewerdew/"><img src="https://img.shields.io/badge/Potcharapl D Wasino-F7F7F7?logo=facebook"></a> &nbsp;
-<a href ="https://www.instagram.com/dewerdew/"><img src="https://img.shields.io/badge/dewerdew-e4405f?logo=instagram&logoColor=f7f7f7"></a>&nbsp;
+<a href ="https://www.instagram.com/dewer_d_dew/"><img src="https://img.shields.io/badge/dewerdew-e4405f?logo=instagram&logoColor=f7f7f7"></a>&nbsp;
 <a href ="https://gitlab.com/Dewerdew"><img src="https://img.shields.io/badge/Dewerdew-184aa8?logo=gitlab&logoColor="></a>  
  
  <!--<a href ="https://Dewerdew.github.io"><img src="https://img.shields.io/badge/Website-184aa8?logo=website&logoColor="></a> &nbsp;
