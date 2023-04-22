@@ -76,31 +76,18 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 
 ### 📝 STATS 
 
-![Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dewerdew&theme=github_dark)
-![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dewerdew&theme=github_dark)
+![Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dewerdew&theme=midnight_purple)
+![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dewerdew&theme=midnight_purple)
 
 <!-- ![Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dewerdew&theme=2077)
 ![Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=2077&utcOffset=7) -->
 
-![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dewerdew&theme=github_dark)
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dewerdew&theme=midnight_purple)
 
 
 
 
-<!--START_SECTION:waka-->
 
-```text
-From: 14 April 2023 - To: 21 April 2023
-
-C++                          ███████████▓░░░░░░░░░░░░░   47.09 %
-JavaScript                   ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
-Dart                         ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
-YAML                         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-Markdown                     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-Other                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-```
-
-<!--END_SECTION:waka-->
 
 ### ![](https://komarev.com/ghpvc/?username=Dewerdew&style=for-the-badge&label=VISITOR)
 ### 💬 &nbsp;Connect Me
