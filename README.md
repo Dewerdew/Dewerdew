@@ -2,7 +2,6 @@
 ### Hi there, I'm Potcharapol Wasino come from Thailand <!-- <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> -->
 
 <!-- ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> --> About Me:
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
  - 🔭 I’m working on [Vansales Application Co., Ltd.](https://vansalesapp.com/)
  - ❤️ I'm currently Web Developer and develop web application <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  - 🌱 I'm doing Codeigniter , PHP, React JS, HTML/CSS/JS
@@ -10,40 +9,41 @@
  - 🎓 Graduate Information Technology KMUTNB 2020 
  - 💬 Use existing experience to develop capabilities to support new technologies in the future.
  - 📫 How to reach me: dewerdew@gmail.com
- - 📫 How to follwing me: https://Dewerdew.github.io
+
  - 📫 Now I'm working in gitlab https://gitlab.com/dewerdew
- - ![Window](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Window](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
+ - ![Window](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Window](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)![RTX](https://img.shields.io/badge/NVIDIA-RTX3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)&nbsp;
 
  
 ### 🛠 &nbsp;Tech Stack
 
  - Programming Language <br>
 
-   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+   ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
    ![Flutter](https://img.shields.io/badge/PHP-2800A4.svg?style=for-the-badge&logo=PHP&logoColor=white)
    ![Node.js](https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=Node.js&logoColor=white)
-   ![C++](https://img.shields.io/badge/C++-AA97F0.svg?style=for-the-badge&logo=cplusplus&logoColor=0012A5)
+   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
    
 
  - Framework <br>
  
-   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+   ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
    ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-FF5722.svg?style=for-the-badge&logo=CodeIgniter&logoColor=white)
    ![React](https://img.shields.io/badge/React-0499CD.svg?style=for-the-badge&logo=React&logoColor=white)
-   ![Express](https://img.shields.io/badge/Express-711E1E.svg?style=for-the-badge&logo=Express&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
    
  
 
  - Database <br>
 
    ![MySql](https://img.shields.io/badge/MySql-FFFFFF.svg?style=for-the-badge&logo=MySql&logoColor=blue)
-   ![MongoDB](https://img.shields.io/badge/MongoDB-007500.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
-   ![Postgresql](https://img.shields.io/badge/Postgresql-207E82.svg?style=for-the-badge&logo=Postgresql&logoColor=white)
+   ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+   ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+   ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+   ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
- - DevOps <br>
- 
-   ![Docker](https://img.shields.io/badge/Docker-3C81BF.svg?style=for-the-badge&logo=Docker&logoColor=white)
+
  
  - Tool <br>
  
@@ -51,14 +51,15 @@
    ![VsCode](https://img.shields.io/badge/VisualStudioCode-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
    ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
    ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)
+   ![Discrod](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
    ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF.svg?style=for-the-badge&logo=Zoom&logoColor=white)
-   ![Figma](https://img.shields.io/badge/Figma-FF6C37.svg?style=for-the-badge&logo=Figma&logoColor=white)
+   ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white)
    ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=ffffff)
    ![Github](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=ffffff)
    ![GitLab](https://img.shields.io/badge/GitLab-DE7900.svg?style=for-the-badge&logo=GitLab&logoColor=ffffff)
-   ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-00AF70.svg?style=for-the-badge&logo=AndroidStudio&logoColor=000000)
-   ![Xcode](https://img.shields.io/badge/Xcode-00AFFF.svg?style=for-the-badge&logo=Xcode&logoColor=white)
-   ![Arduino](https://img.shields.io/badge/Arduino-00FFFF.svg?style=for-the-badge&logo=Arduino&logoColor=Black)
+   ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+   ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+   ![Shellscript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=Green)
  
 
  
@@ -92,12 +93,12 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 ### ![](https://komarev.com/ghpvc/?username=Dewerdew&style=for-the-badge&label=VISITOR)
 ### 💬 &nbsp;Connect Me
 <p>
-<a href ="https://www.facebook.com/maccaniarosan.tham/"><img src="https://img.shields.io/badge/tham saleerueng-F7F7F7?logo=facebook"></a> &nbsp;
-<a href ="https://www.instagram.com/tham_saleerueng/"><img src="https://img.shields.io/badge/tham saleerueng-e4405f?logo=instagram&logoColor=f7f7f7"></a>&nbsp;
-<a href ="https://gitlab.com/Dewerdew"><img src="https://img.shields.io/badge/Dewerdew-184aa8?logo=gitlab&logoColor="></a> 
-<a href ="https://www.linkedin.com/in/tham-saleerueng-47b96b239/"><img src="https://img.shields.io/badge/Tham Saleerueng-0a66c2?logo=linkedin&logoColor="></a>
- <a href ="https://Dewerdew.github.io"><img src="https://img.shields.io/badge/Website-184aa8?logo=website&logoColor="></a> &nbsp;
+<a href ="https://www.facebook.com/dewerdew/"><img src="https://img.shields.io/badge/Potcharapl D Wasino-F7F7F7?logo=facebook"></a> &nbsp;
+<a href ="https://www.instagram.com/dewerdew/"><img src="https://img.shields.io/badge/dewerdew-e4405f?logo=instagram&logoColor=f7f7f7"></a>&nbsp;
+<a href ="https://gitlab.com/Dewerdew"><img src="https://img.shields.io/badge/Dewerdew-184aa8?logo=gitlab&logoColor="></a>  
  
+ <!--<a href ="https://Dewerdew.github.io"><img src="https://img.shields.io/badge/Website-184aa8?logo=website&logoColor="></a> &nbsp;
+  -->
 </p>
 
 
