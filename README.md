@@ -86,7 +86,9 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dewerdew&theme=midnight_purple)
 
 
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 
 
 
