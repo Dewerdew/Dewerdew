@@ -88,6 +88,12 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 
 <!--START_SECTION:waka-->
 
+```text
+From: 16 April 2023 - To: 23 April 2023
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
