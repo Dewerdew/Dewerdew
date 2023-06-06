@@ -89,11 +89,11 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2023 - To: 05 June 2023
+From: 30 May 2023 - To: 06 June 2023
 
-PHP                          ██████████░░░░░░░░░░░░░░░   39.62 %
-JavaScript                   █████████░░░░░░░░░░░░░░░░   36.03 %
-SQL                          ██████░░░░░░░░░░░░░░░░░░░   24.35 %
+JavaScript                   ██████████▒░░░░░░░░░░░░░░   41.54 %
+PHP                          █████████▓░░░░░░░░░░░░░░░   38.94 %
+SQL                          █████░░░░░░░░░░░░░░░░░░░░   19.52 %
 ```
 
 <!--END_SECTION:waka-->
