@@ -89,7 +89,7 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 09 June 2023
+From: 03 June 2023 - To: 10 June 2023
 
 PHP                          ██████████████████▒░░░░░░   73.55 %
 JavaScript                   ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
