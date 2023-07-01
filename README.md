@@ -9,6 +9,7 @@
  - 🎓 Graduate Information Technology KMUTNB 2020 
  - 💬 Use existing experience to develop capabilities to support new technologies in the future.
  - 📫 How to reach me: dewerdew@gmail.com
+ - 📫 How to follwing me: https://dewerdew.github.io
 
  - 📫 Now I'm working in gitlab https://gitlab.com/dewerdew
  - ![Window](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Window](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)![RTX](https://img.shields.io/badge/NVIDIA-RTX3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)&nbsp;
@@ -108,7 +109,8 @@ SQL                          ▒░░░░░░░░░░░░░░░░
 <a href ="https://www.facebook.com/dewerdew/"><img src="https://img.shields.io/badge/Potcharapl D Wasino-F7F7F7?logo=facebook"></a> &nbsp;
 <a href ="https://www.instagram.com/dewer_d_dew/"><img src="https://img.shields.io/badge/dewerdew-e4405f?logo=instagram&logoColor=f7f7f7"></a>&nbsp;
 <a href ="https://gitlab.com/Dewerdew"><img src="https://img.shields.io/badge/Dewerdew-184aa8?logo=gitlab&logoColor="></a>  
- 
+ <a href ="https://dewerdew.github.io"><img src="https://img.shields.io/badge/website-blue
+"></a>  
  <!--<a href ="https://Dewerdew.github.io"><img src="https://img.shields.io/badge/Website-184aa8?logo=website&logoColor="></a> &nbsp;
   -->
 </p>
