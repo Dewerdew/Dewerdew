@@ -90,12 +90,11 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2023 - To: 14 July 2023
+From: 08 July 2023 - To: 15 July 2023
 
-JavaScript                   ████████████████░░░░░░░░░   63.93 %
-EJS                          ██████░░░░░░░░░░░░░░░░░░░   23.50 %
-JSON                         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-Markdown                     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+JavaScript                   ███████████████▒░░░░░░░░░   60.83 %
+EJS                          ███████▓░░░░░░░░░░░░░░░░░   30.14 %
+JSON                         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
 ```
 
 <!--END_SECTION:waka-->
