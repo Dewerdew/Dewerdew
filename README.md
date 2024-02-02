@@ -90,7 +90,7 @@ cmd-shift-v or ctrl-shift-v	Open preview-- > -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2024 - To: 31 January 2024
+From: 25 January 2024 - To: 01 February 2024
 
 JavaScript                   █████████████████████████   99.85 %
 SCSS                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
